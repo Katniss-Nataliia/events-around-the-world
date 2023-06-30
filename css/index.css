@@ -25,6 +25,11 @@
   background-position: center;
 }
 
+header {
+  background-color: red;
+  height: 100%;
+}
+
 body {
   background-color: var(--main-bg-color);
   font-family: "Roboto", sans-serif;
